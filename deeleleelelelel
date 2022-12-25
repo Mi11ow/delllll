@@ -1,12 +1,10 @@
-gneurighreognregnrenjg
-regerihjtrehpktrh
-rtht
-h
-rthrt
-h
-rt
-hrt
-h
-h
-ht
-rth
+a=2
+b=3
+k=0
+while k<10:
+a=a+9
+b=a+7
+k=k+1
+print (a,b)
+
+
